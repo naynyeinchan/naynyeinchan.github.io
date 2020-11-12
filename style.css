@@ -1,0 +1,30 @@
+#hello {
+    margin-top: 5%;
+    color: thistle;
+    font-size: 4vw;
+
+}
+span {
+    color: aliceblue;
+    font-size: 4vw;
+}
+#hi {
+    background: -webkit-linear-gradient(#30CFD0, #330867);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#mya {
+    background-image: linear-gradient(to bottom, #ffff00, #f5f500, #f5f500, #00ff00, #ff3300, #ff0000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 4vw;
+}
+
+
+
+#nnc {
+    background-image: linear-gradient(to right, #577bb0, #0c8dbd, #009ebb, #00acaa, #16b78d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
