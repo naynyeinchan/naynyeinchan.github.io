@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Laravel And Vue**
 
-- 📫 How to reach me **https://www.facebook.com/thutaminthway2001/**
-
 - ⚡ Fun fact **I love living with my cats.**
 
 ### ⚙️ &nbsp;GitHub Analytics
